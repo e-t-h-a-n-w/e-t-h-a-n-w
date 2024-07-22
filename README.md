@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @e-t-h-a-n-w
 - 👀 I’m interested in data science for good 
-- 🌱 I’m currently learning python and machine learning 
-#- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently learning python and machine learning
 - 📫 How to reach me: eaw.cascadia@gmail.com
 - 😄 Pronouns: he / they 
 - ⚡ Fun fact: aerial circus is my happy place
