@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e-t-h-a-n-w
-- 👀 I’m interested in data science for good 
-- 🌱 I’m currently learning python and machine learning
+- 👀 I’m interested in science and analysis
+- 🌱 I’m currently learning immunology and biomarker analysis
 - 📫 How to reach me: eaw.cascadia@gmail.com
 - 😄 Pronouns: he / they 
 - ⚡ Fun fact: aerial circus is my happy place
